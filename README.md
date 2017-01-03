@@ -7,10 +7,6 @@ Tmux configuration folders
 Installation
 ------------
 
-
-Installation
-------------
-
     git clone https://github.com/carlosshigoto/dottmux.git ~/.tmux
 
 
