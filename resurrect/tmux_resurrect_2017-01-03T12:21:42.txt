@@ -1,0 +1,15 @@
+pane	0	0	:bash	1	:*	0	:/home/shigoto	1	bash	:
+pane	syndemedic	0	:bash	0	:	0	:/home/shigoto/Documents/Projects/Syndemedic	1	bash	:
+pane	syndemedic	1	:vim	1	:*	0	:/home/shigoto/Documents/Projects/Syndemedic/Codes	1	vim	:vim
+pane	syndemedic	2	:python	0	:	0	:/home/shigoto/Documents/Projects/Syndemedic	0	less	:less Codes/PDB/Carbonic_Anhydrase_II/1CIL.pdb
+pane	syndemedic	2	:python	0	:	1	:/home/shigoto/Documents/Projects/Syndemedic/Codes	1	python	:/opt/anaconda2/bin/python /opt/anaconda2/bin/ipython
+pane	syndemedic	3	:python	0	:-	0	:/home/shigoto/Documents/Projects/Syndemedic	1	less	:less -f Codes/Output/PDB/Carbonic_Anhydrase_II/1CIL.pdb
+pane	syndemedic	3	:python	0	:-	1	:/home/shigoto/Documents/Projects/Syndemedic/Codes	0	python	:/opt/anaconda2/bin/python /opt/anaconda2/bin/ipython
+pane	syndemedic	4	:top	0	:	0	:/home/shigoto/Documents/Projects/Syndemedic	1	bash	:
+window	0	0	1	:*	c31e,205x55,0,0,1
+window	syndemedic	0	0	:	c31f,205x55,0,0,2
+window	syndemedic	1	1	:*	c320,205x55,0,0,3
+window	syndemedic	2	0	:	8754,205x55,0,0{102x55,0,0,4,102x55,103,0,5}
+window	syndemedic	3	0	:-	8757,205x55,0,0{102x55,0,0,6,102x55,103,0,7}
+window	syndemedic	4	0	:	c325,205x55,0,0,8
+state	syndemedic	0

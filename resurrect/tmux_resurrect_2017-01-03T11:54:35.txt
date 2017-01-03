@@ -1,0 +1,5 @@
+pane	0	0	:bash	1	:*	0	:/home/shigoto	1	bash	:
+pane	syndemedic	0	:bash	1	:*	0	:/home/shigoto/Documents/Projects/Syndemedic	1	bash	:
+window	0	0	1	:*	c31e,205x55,0,0,1
+window	syndemedic	0	1	:*	c325,205x55,0,0,8
+state	0	syndemedic
