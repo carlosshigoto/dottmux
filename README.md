@@ -22,4 +22,4 @@ Packages
 * [Resurrect](https://github.com/tmux-plugins/tmux-resurrect): Save environments `Ctrl-b + Ctrl-s`, `Ctrl-b + Ctrl-r`
 * [Continuum](https://github.com/tmux-plugins/tmux-continuum): Continous saving 
 * [Mouse mode](https://github.com/NHDaly/tmux-better-mouse-mode): Better mouse mode for scrolling
-
+* [Sensible](https://github.com/tmux-plugins/tmux-sensible)
