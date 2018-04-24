@@ -13,3 +13,12 @@
 [submodule "plugins/tmux-sensible"]
 	path = plugins/tmux-sensible
 	url = https://github.com/tmux-plugins/tmux-sensible
+[submodule "plugins/tmux-copycat"]
+	path = plugins/tmux-copycat
+	url = https://github.com/tmux-plugins/tmux-copycat
+[submodule "plugins/tmux-yank"]
+    path = plugins/tmux-yank
+    url = https://github.com/tmux-plugins/tmux-yank
+[submodule "plugins/tmux-open"]
+	path = plugins/tmux-open
+	url = https://github.com/tmux-plugins/tmux-open
