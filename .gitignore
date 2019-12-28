@@ -1,3 +1,5 @@
 # resurrect files 
 resurrect/tmux_resurrect*.txt
 resurrect/last
+resurrect/base
+resurrect/*
