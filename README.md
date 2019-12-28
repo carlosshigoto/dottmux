@@ -35,3 +35,5 @@ Features
 * New windows a panes open in the current folder
 * Open a new window in home directory `Ctrl-b + Ctrl-C`
 * `glances` added to resurrect programs list
+* Compatible with [FuzzyFinder](https://github.com/junegunn/fzf)
+* `Ctrl-hjkl` to navigate bwtween panes
